@@ -22,4 +22,4 @@ Second, unzip Resources.7z<br>
 Change the BadApple images in the Textures folder from the default to sprite<br>
 Finaly, attach BA.cs to any object and setting BAMat material a 3D object<br>
 ## Download<br>
-https://github.com/kamikire/Unity_BadApple_NoVideoPlayer.git
+https://github.com/kamikire/Unity_BadApple_NoVideoPlayer/archive/refs/heads/main.zip
