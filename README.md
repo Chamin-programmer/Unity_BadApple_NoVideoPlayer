@@ -24,3 +24,4 @@ Finaly, Attach BA.cs to any object and setting BAMat material a 3D object<br>
 ## Download<br>
 https://github.com/kamikire/Unity_BadApple_NoVideoPlayer/archive/refs/heads/main.zip
 ## License<br>
+MIT
